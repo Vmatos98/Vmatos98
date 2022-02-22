@@ -25,6 +25,7 @@
 ## Sobre mim
    Aluno de engenharia eletrônica, estudo programação por conta própria desde o ensino médio, já desenvolvi diversos projetos de IOT utilizando ferramentas como esp32. 
   Atualmente me dedico a aprendizagem de desenvolvimento web na DRIVEN e venho buscando melhorar minhas habilidades em python por conta própria 
+  
   Usuário Linux 
 ## Contatos
   <a href = "mailto:antoniovitomatos+profissional@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

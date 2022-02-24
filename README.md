@@ -1,3 +1,4 @@
+ <a href = "mailto:antoniovitomatos+profissional@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 ### Olá, bem vindo ao meu github 👋
 
 <div>
@@ -27,8 +28,7 @@
   Atualmente me dedico a aprendizagem de desenvolvimento web na DRIVEN e venho buscando melhorar minhas habilidades em python por conta própria 
   
   Usuário Linux 
-## Contatos
-  <a href = "mailto:antoniovitomatos+profissional@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 ## Um pouco mais  
    - 🌱 Estou atualmente aprendendo desenvolvimento web
    - 🌱 Estou atualmente aprendendo inglês
